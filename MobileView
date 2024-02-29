@@ -1,0 +1,181 @@
+@media screen and (max-width : 350px) {
+  .hero{
+    flex-direction: column;
+    width: 100%;
+  }
+  .hero h1{
+    margin-bottom: 20px;
+    font-size: 32px;
+  }
+  .hero button{
+    width: 200px;
+height: 40px;
+font-size: 14px;
+  }
+  .hero p{
+    margin-bottom: 52px;
+    font-size: 18px;
+  }
+  .paypalImage{
+    width: 310px;
+    height:163.704;
+    margin-top: 40.21px;
+  }
+  .cardContainer{
+    grid-template-columns: auto;
+  }
+  .whyintegrate h1{
+    font-size: 28px;
+    margin-top:40px ;
+    text-align: center;
+  }
+  .bullet-pts h2 {
+    font-size: 20px;
+  }
+  .whyintegrate p{
+    font-size: 18px;
+
+  }
+  
+    .heading,.overview p,.Choiceheading,.ChoiceContent,.subheading,.startIntegrationBotton,.GatewaysHeading,.ready-elevate form button ,.ready-elevate form input,.integration h2,.box,.whyintegrate h1{
+      width: 310px;
+    }
+    .whyintegrate{
+      flex-direction: column;
+      margin-top:40px;
+    }
+    .ready-elevate h1{
+      font-size: 28px;
+    }
+    .ready-elevate p{
+      font-size: 18px;
+      margin-bottom:40px;
+    }
+    .overview h1{
+      font-size: 28px;
+      margin-bottom:20px;
+    }
+    .overview img {
+      width: 143px;
+height: 141px;
+margin-bottom:20px;
+
+flex-shrink: 0;
+    }
+    .overview button{
+      width: 310px;
+      height: 40px;
+      margin-bottom: 40px;
+      margin-top: 40px;
+      font-size: 14px;
+    }
+    .integration h1{
+      width: 310px;
+      font-size: 28px;
+      text-align: center;
+    }
+    .integration h2{
+      font-size: 20px;
+      text-align: center;
+    }
+    .overview p{
+      font-size: 16px;
+    }
+.integration p{
+  font-size: 18px;
+}
+.box p{
+  font-size: 16px;
+  width: 186px;
+
+}
+.box{
+  gap:29.92px;
+  height: 213px;
+}
+  .whyintegrate{
+    padding: 0;
+    gap:40px;
+
+  }
+  .ready-elevate{
+    padding: 40px 20px;
+    width: 100%;
+  }
+  .bullet-pts ul{
+    font-size: 16px;
+  }
+  .ready-elevate{
+    padding: 40px 20px;
+    width: 100%;
+  }
+  .ready-elevate form  {
+    gap: 20px;
+  }
+  .ready-elevate form label {
+    font-size: 16px;
+  }
+  .ready-elevate form input{
+    font-size: 14px;
+  }
+  .ready-elevate form button{
+    margin-top: 40px;
+  }
+  .chargeon-help h1 {
+    font-size: 28px;
+    width: 310px;
+  }
+  .con-box{
+    width: 88.57%;
+height: 175px;
+  }
+  .conboxes{
+    row-gap: 20px;
+  }
+  .con-box h2{
+    font-size: 16px;
+  }
+  .con-box p {
+    
+    font-size: 16px;
+  }
+  .conpara{
+    font-size: 18px;
+    width: 88.57142%;
+    margin-bottom: 20px;
+  }
+  .chargeon-help button{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .ellipse1,.ellipse2{
+    display: none;
+  }
+  .input-wrapper-message{
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+  .column2{
+    grid-template-columns: auto;
+    grid-template-rows: repeat(5,auto);
+
+  }
+  .ChoicesubContainer{
+    flex-direction: column;
+    gap:20px;
+  }
+  .column1{
+    font-size: 28px;
+
+  }
+  .container {
+    max-width: 310px;
+    margin: auto;
+  }
+  .whyintegrate h2{
+    margin:0px;
+  }
+  .wrapper{
+    width:100%;
+  }
+}
